@@ -14,10 +14,9 @@
 1. Clone the repository to your local machine:
    ```bash
    git clone https://github.com/Shahbaz31/Excel_Store_Data_analysis/
-   ```
-2. Open the Excel file ('Vrinda_Store_Raw_data.xlsx') for cleaning and processing raw data.
+   ``
  
-3. Open the Excel file (`Project_Vrinda_Store_Data_Analysis.xlsx`) included in the project for result and analysis.
+2. Open the Excel file (`Project_Vrinda_Store_Data_Analysis.xlsx`) included in the project for result and analysis.
 
 ## How to Use
 
