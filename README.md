@@ -39,6 +39,6 @@
 
 This project is designed with the full guidance of **Rishabh Mishra**. His comprehensive tutorial on YouTube was instrumental in building this project. You can find the full tutorial here: [Rishabh Mishra's Tutorial](https://www.youtube.com/watch?v=gTK5rNhWJyA).
 
-Special thanks to Rishabh Mishra for providing such an incredible learning opportunity and guidance.
+Special thanks to **Rishabh Mishra** for providing such an incredible learning opportunity and guidance.
 
 
