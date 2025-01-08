@@ -15,7 +15,7 @@
    ```bash
    git clone https://github.com/Shahbaz31/Excel_Store_Data_analysis/
    ```
-2. Open the Excel file ('Vrinda Store Raw data.xlsx') for cleaning and processing raw data.
+2. Open the Excel file ('Vrinda_Store_Raw_data.xlsx') for cleaning and processing raw data.
  
 3. Open the Excel file (`Project_Vrinda_Store_Data_Analysis.xlsx`) included in the project for result and analysis.
 
@@ -23,7 +23,7 @@
 
 1. Open the `Project_Vrinda_Store_Data_Analysis.xlsx` file in Microsoft Excel.
 2. Navigate through the following sheets:
-   - **Raw Data**: Contains unprocessed data for analysis in file ('Vrinda Store Raw data.xlsx').
+   - **Raw Data**: Contains unprocessed data for analysis in file ('Vrinda_Store_Raw_data.xlsx').
    - **Analysis**: Includes cleaned data and analysis outputs.
    - **Visualizations**: Pre-built charts and dashboards for easy interpretation.
 3. Explore the following additional analyses included in the report:
